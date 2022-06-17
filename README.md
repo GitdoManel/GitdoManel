@@ -1,11 +1,11 @@
 ## Olá, meu nome é Emanuel Lima.
 📚systems analysis and development student
+
 💡improving and learning language in java   
 😀gmail contact: emanueldez22@gmail.com
  <div align="side">
   <a href="https://github.com/GitdoManel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GitdoManel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GitdoManel&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
  <div> 
