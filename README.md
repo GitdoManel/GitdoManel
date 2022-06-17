@@ -1,4 +1,4 @@
-# GitdoManell
+# GitdoManel
  😊 studying java language
  
      
